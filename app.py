@@ -6,11 +6,11 @@ from custom_logistic_regression import LogisticRegression_Scratch
 app = Flask(__name__)
 
 # Load models
-with open('F:/Programming/AI/machine learning_Cafetadris/DS_1/Logestic_Regression_Scratch/WebApp/models/logistic_regression_MCE_model.pkl', 'rb') as f:
+with open('models/logistic_regression_MCE_model.pkl', 'rb') as f:
     mce_model = pickle.load(f)
-with open('F:/Programming/AI/machine learning_Cafetadris/DS_1/Logestic_Regression_Scratch/WebApp/models/logistic_regression_ova_model.pkl', 'rb') as f:
+with open('models/logistic_regression_ova_model.pkl', 'rb') as f:
     ova_model = pickle.load(f)
-with open('F:/Programming/AI/machine learning_Cafetadris/DS_1/Logestic_Regression_Scratch/WebApp/models/scaler.pkl', 'rb') as f:
+with open('models/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 # Instantiate custom model from scratch
