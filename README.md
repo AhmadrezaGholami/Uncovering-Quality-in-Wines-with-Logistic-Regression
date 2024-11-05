@@ -17,7 +17,7 @@ The app uses a trained scaler to normalize inputs before predicting the wine qua
 
 ## 📊 Training Phase on Kaggle
 
-The training phase of the model, including data preprocessing and model training, can be found on Kaggle. Check it out [here](<[Kaggle_Link](https://www.kaggle.com/code/ahmadrezagholami2001/uncovering-quality-in-wines-with-logistic-regressi)>).
+The training phase of the model, including data preprocessing and model training, can be found on Kaggle. Check it out [here](<[https://www.kaggle.com/code/ahmadrezagholami2001/uncovering-quality-in-wines-with-logistic-regressi]>).
 
 ---
 
@@ -40,8 +40,8 @@ Make sure you have the following installed:
 
 ---
 
-  ## 📊 Training Phase on Kaggle
+## 📊 Training Phase on Kaggle
 
-The training phase of the model, including data preprocessing and model training, can be found on Kaggle. Check it out [here](<[Kaggle_Link](https://www.kaggle.com/code/ahmadrezagholami2001/uncovering-quality-in-wines-with-logistic-regressi)>).
+The training phase of the model, including data preprocessing and model training, can be found on Kaggle. Check it out [here](<[https://www.kaggle.com/code/ahmadrezagholami2001/uncovering-quality-in-wines-with-logistic-regressi]>).
 
 ---
